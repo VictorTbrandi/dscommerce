@@ -1,9 +1,9 @@
-package com.devsuperior.demo.services;
+package com.devsuperior.dscommerce.services;
 
-import com.devsuperior.demo.entities.Role;
-import com.devsuperior.demo.entities.User;
-import com.devsuperior.demo.projections.UserDetailsProjection;
-import com.devsuperior.demo.repositories.UserRepository;
+import com.devsuperior.dscommerce.entities.Role;
+import com.devsuperior.dscommerce.entities.User;
+import com.devsuperior.dscommerce.projections.UserDetailsProjection;
+import com.devsuperior.dscommerce.repositories.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.security.core.userdetails.UserDetails;
 import org.springframework.security.core.userdetails.UserDetailsService;
