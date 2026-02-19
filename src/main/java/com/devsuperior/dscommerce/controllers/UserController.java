@@ -1,4 +1,4 @@
-package com.devsuperior.dscommerce.controllers.handlers;
+package com.devsuperior.dscommerce.controllers;
 
 import com.devsuperior.dscommerce.dto.UserDTO;
 import com.devsuperior.dscommerce.services.UserService;
